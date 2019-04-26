@@ -1,0 +1,10 @@
+﻿id,age_recode_12,resident_status,education_1989_revision,sex,marital_status,icd_code_10th_revision,entity_condition_1,entity_condition_2,entity_condition_3,entity_condition_4,entity_condition_5,entity_condition_6,entity_condition_7,entity_condition_8,entity_condition_9,entity_condition_10,entity_condition_11,entity_condition_12,entity_condition_13,entity_condition_14,entity_condition_15,entity_condition_16,entity_condition_17,entity_condition_18,entity_condition_19,entity_condition_20,race,hispanic_origin
+1,11,1,3,F,W,I679,11N19,21I679,61F03,,,,,,,,,,,,,,,,,,3,100
+2,11,3,8,F,W,C80,11C80,,,,,,,,,,,,,,,,,,,,1,100
+3,11,1,3,F,W,R99,11R99,,,,,,,,,,,,,,,,,,,,3,100
+4,11,1,12,F,W,J449,11J449,,,,,,,,,,,,,,,,,,,,1,100
+5,11,1,16,F,M,N19,11N19,61I500,62F03,,,,,,,,,,,,,,,,,,1,100
+6,11,1,12,M,M,J189,11J189,,,,,,,,,,,,,,,,,,,,1,100
+7,11,1,8,M,W,J449,11J449,,,,,,,,,,,,,,,,,,,,1,100
+8,11,1,11,M,W,M199,11R092,21R628,31M199,32M549,,,,,,,,,,,,,,,,,1,100
+9,11,1,9,F,W,I429,11I429,61M199,,,,,,,,,,,,,,,,,,,1,100
